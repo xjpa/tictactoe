@@ -1,0 +1,6 @@
+.DS_Store
+_build/
+*.install
+*.opam
+.dune/
+.dune-project
