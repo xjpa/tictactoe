@@ -17,7 +17,7 @@ a good todo would be to implement a real AI logic like minmax algorithm or somet
 learned some functional programming here:
 
 - emphasized immutability like in `make_move`
-- lots of pure functions like `check_win` and `check_draw` just takes input and doesnt modify any state
+- lots of pure functions like `check_win` and `check_draw` just takes input + returns w/o modifying state
 - use of higher order functions like with `list_mapi`
 - utilises a common feature popular with functional programming which is pattern matching like with `get_move`
 - and of course recursion like with `find_move`
